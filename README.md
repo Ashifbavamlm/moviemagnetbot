@@ -17,14 +17,14 @@
 
 ## How to use it
 
-- Talk to [@moviemagnetbot](https://t.me/moviemagnetbot) on Telegram
+- Talk to [@moviemagnetbot] on Telegram
 - Subscribe personal RSS feed in download tools
 
-*[Video example 1](https://t.me/moviemagnet/6), [Video example 2](https://t.me/moviemagnet/7)*
+*[Video example 1](https://t.me/moviemagnet/6), [Video example 2]*
 
 ## Ways to get involved
 
-- Join our [channel](https://t.me/moviemagnet) and [user group](https://t.me/moviemagnetusers) on Telegram
+- Join our [channel](https://t.me/moviemagnet) and [user group] on Telegram
 - [Open an issue](https://github.com/magunetto/moviemagnetbot/issues/new/choose) when you have an idea or found a bug
 
 ## How to contribute
